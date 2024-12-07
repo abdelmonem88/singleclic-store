@@ -34,7 +34,7 @@ A modern e-commerce application built with React, TypeScript, and Tailwind CSS, 
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/abdelmonem88/singleclic-store.git>
+git clone https://github.com/abdelmonem88/singleclic-store.git
 cd singleclic-store
 ```
 
